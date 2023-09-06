@@ -48,7 +48,7 @@ url = "https://cdn.modrinth.com/data/swbUV1cr/versions/km6iyWPb/BlueMap-3.16-fab
 
 [[mods]]
 name = "Bobby"
-url = "https://cdn.modrinth.com/data/M08ruV16/versions/2cuVyTav/bobby-5.0.1.jar"
+url = "https://cdn.modrinth.com/data/M08ruV16/versions/lwQhE0t0/bobby-5.0.0.jar"
 
 [[mods]]
 name = "Botarium"
@@ -179,11 +179,11 @@ url = "https://cdn.modrinth.com/data/CVBAErky/versions/C1fCIQSh/imst-2.1.0.jar"
 
 [[mods]]
 name = "Indium"
-url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/6UQwWURe/indium-1.0.25%2Bmc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/yTh7W27h/indium-1.0.21%2Bmc1.20.1.jar"
 
 [[mods]]
 name = "Iris Shaders"
-url = "https://cdn.modrinth.com/data/YL57xq9U/versions/pVNPPrMY/iris-mc1.20.1-1.6.8.jar"
+url = "https://cdn.modrinth.com/data/YL57xq9U/versions/MU0L4OZM/iris-mc1.20.1-1.6.7.jar"
 
 [[mods]]
 name = "JamLib"
@@ -351,7 +351,7 @@ url = "https://cdn.modrinth.com/data/wnEe9KBa/versions/J2WKvX2m/vmp-fabric-mc1.2
 
 [[mods]]
 name = "Wilder Wild"
-url = "https://cdn.modrinth.com/data/AtHRJSUW/versions/lmHekTor/WilderWild-2.1.3-Fabric%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/AtHRJSUW/versions/1B31drs9/WilderWild-2.1.1-Fabric%2B1.20.1.jar"
 
 [[mods]]
 name = "Windchimes"
