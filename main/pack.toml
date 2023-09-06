@@ -1,0 +1,16 @@
+name = "Third Floor Modpack"
+author = "ryleu"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f281bcccfae3a1fc0be9de91db8f4c9c8fa3f389a84fa51499f43d82563737d3"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.20.2"
+
+[options]
+acceptable-game-versions = ["1.20", "1.20.1"]
