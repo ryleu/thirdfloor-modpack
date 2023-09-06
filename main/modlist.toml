@@ -106,10 +106,6 @@ name = "Iron Chests"
 url = "https://cdn.modrinth.com/data/7mHyGgvW/versions/kpG7ZU4m/IronChests-2.0.0.jar"
 
 [[mods]]
-name = "DashLoader"
-url = "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/wgtrj8HS/dashloader-5.0.0-beta.2%2B1.20.0.jar"
-
-[[mods]]
 name = "Dawn API"
 url = "https://cdn.modrinth.com/data/meZK2DCX/versions/J6b05anw/dawn-5.0.0.jar"
 
@@ -180,10 +176,6 @@ url = "https://cdn.modrinth.com/data/CVBAErky/versions/C1fCIQSh/imst-2.1.0.jar"
 [[mods]]
 name = "Indium"
 url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/yTh7W27h/indium-1.0.21%2Bmc1.20.1.jar"
-
-[[mods]]
-name = "Iris Shaders"
-url = "https://cdn.modrinth.com/data/YL57xq9U/versions/MU0L4OZM/iris-mc1.20.1-1.6.7.jar"
 
 [[mods]]
 name = "JamLib"
