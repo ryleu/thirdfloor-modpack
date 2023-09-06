@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bluemap/core.conf"
+hash = "172838961e3ed93f2c014f7d43772723b622e41cd8b8cee6e3827c78915ab991"
+
+[[files]]
+file = "config/bluemap/plugin.conf"
+hash = "526c17706d05ccff505ee369ea115a77dfec9ccddb10f9a5c3d7f2ed3ac5d948"
+
+[[files]]
+file = "config/bluemap/webapp.conf"
+hash = "906d5c3075b9c97d1050fbc4489c03fb788f81a0cc1957bd959816809f335dea"
+
+[[files]]
+file = "config/bluemap/webserver.conf"
+hash = "e3c4171a5f23346888958ccd255215c67bcfb071ca474a9bd47930950be6abed"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "4789940899b14c1a43c106b61b90498547109c21d0eff564eff98ab9e43a0f27"
 metafile = true
@@ -48,6 +64,11 @@ metafile = true
 [[files]]
 file = "mods/bits-and-chisels.pw.toml"
 hash = "696dedc5f75137914468457f007ecd6d7621a174a22528af2afc6f73b5b867c0"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "1ec63cbc97befa560d1828445ac436c0080dacdf11afa373655f211455066ace"
 metafile = true
 
 [[files]]
