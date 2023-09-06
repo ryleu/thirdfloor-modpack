@@ -9,11 +9,11 @@ jobs:
       - uses: actions/checkout@v3
       - name: Copy Files
         run: |
+          rm -f modlist.toml
+          for mod in $(/bin/ls mods); do echo "[[mods]]" >> modlist.toml ; cat mods/$mod | grep -E "^(name|url)" >> modlist.toml ; echo >> modlist.toml; done
           rm -rf ../build/${{ github.ref_name }}
           mkdir -p ../build/${{ github.ref_name }}
           cp -r ./* ../build/${{ github.ref_name }}
-          rm -f modlist.toml
-          for mod in $(/bin/ls mods); do echo "[[mods]]" >> modlist.toml ; cat mods/$mod | grep -E "^(name|url)" >> modlist.toml ; echo >> modlist.toml; done
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
