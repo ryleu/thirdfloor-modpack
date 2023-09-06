@@ -21,6 +21,16 @@ hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
+file = "mods/automobility.pw.toml"
+hash = "c3b5b2edf2b45384bd560bd7fe72c3f99515a95d023a69750c43ef691e59f546"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "a1bea09f928280dd62cea871438231389ecbed00f4053bb5d1d4a3ad91545fc3"
+metafile = true
+
+[[files]]
 file = "mods/better-beds.pw.toml"
 hash = "0bf7fa5d6e5b126e110699e85c64b4d86a1d4171d17adfc994936e6f62b81083"
 metafile = true
@@ -33,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/bewitchment.pw.toml"
 hash = "bdca6c6aae1e50a528c5d343529d002cdbda431a059e70b9f8dc7d6fb21751f5"
+metafile = true
+
+[[files]]
+file = "mods/bits-and-chisels.pw.toml"
+hash = "696dedc5f75137914468457f007ecd6d7621a174a22528af2afc6f73b5b867c0"
 metafile = true
 
 [[files]]
@@ -56,6 +71,11 @@ hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "0eade623c5e691a94d27ff5e950afe34d4ce8c2f89f63d1748bb947c91736c9a"
+metafile = true
+
+[[files]]
 file = "mods/cinderscapes.pw.toml"
 hash = "e291de29548596119100097a03c0a7ad5adf241c6094b54ae5a5993cb20a92a9"
 metafile = true
@@ -68,6 +88,21 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
+metafile = true
+
+[[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "640e09088fc040815c01635c52a85f04a85d36039e91dd69021e7737a1bf5f12"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "c9da23c3afbb9a9de45d769db484bba17b3e63a8f37cfdbcf091d5e89274936c"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
 metafile = true
 
 [[files]]
@@ -166,6 +201,11 @@ hash = "edd891ba10d407c2ace1240ab4cfd1cebaf5cc07bcb2a9416b9666891a48c550"
 metafile = true
 
 [[files]]
+file = "mods/honk.pw.toml"
+hash = "25eb1111f3b5415581760f01b65e2ba1228329c09f1eb7e74796167b002b2e3f"
+metafile = true
+
+[[files]]
 file = "mods/immersive-structures-ii.pw.toml"
 hash = "2704e1663784137c7f0bf37b2a3cbe0f1fcf9af9b9137f65a0a8f6c6db8c9a9f"
 metafile = true
@@ -183,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "f2170f677cce023da0b7506a0445352d99690603d70046ec5c90231016b4d3b9"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
 metafile = true
 
 [[files]]
@@ -213,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6c417b19bc836d7c516be0097261c49cf1a167951bb4744ec0f3cc0bd0d1d24a"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "3ee62cce8cb44ef7cccf89e40bdb279b195f252fd1a7fdfc03be4303f38486cd"
 metafile = true
 
 [[files]]
@@ -383,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/windchimes.pw.toml"
 hash = "36f88eeb3fa5462616161820cace08473a985dbc243fbc85f1deed553e25efb6"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "874a680170fbf36204ee1c4e57650b6a28b15d10a32163964850aaccc9a7457a"
 metafile = true
 
 [[files]]
