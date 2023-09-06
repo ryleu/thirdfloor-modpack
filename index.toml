@@ -152,11 +152,6 @@ hash = "af9263e844d38c6e46495f2ed42a8e0a52b16784d9b64601b010c0eb58158ff9"
 metafile = true
 
 [[files]]
-file = "mods/dashloader.pw.toml"
-hash = "f9f4439a50f6de55c91eab4c2dcbe1a6c9c325a7b87d1b579c79a6098f5dedc1"
-metafile = true
-
-[[files]]
 file = "mods/dawn.pw.toml"
 hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
 metafile = true
@@ -244,11 +239,6 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "5aa33cf19de168fa9da2421aff76367a5b7206d9f5ffd1dbbce4bff2a47a88ef"
 metafile = true
 
 [[files]]
