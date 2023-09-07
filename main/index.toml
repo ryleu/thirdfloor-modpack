@@ -52,11 +52,6 @@ hash = "a1bea09f928280dd62cea871438231389ecbed00f4053bb5d1d4a3ad91545fc3"
 metafile = true
 
 [[files]]
-file = "mods/better-beds.pw.toml"
-hash = "0bf7fa5d6e5b126e110699e85c64b4d86a1d4171d17adfc994936e6f62b81083"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "ba31b113733abc813e36738bdc8104fad628232d29907f66f48cf8c45299de9f"
 metafile = true

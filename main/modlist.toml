@@ -27,10 +27,6 @@ name = "bad packets"
 url = "https://cdn.modrinth.com/data/ftdbN0KK/versions/BTK3ZWby/badpackets-fabric-0.4.2.jar"
 
 [[mods]]
-name = "Better Beds"
-url = "https://cdn.modrinth.com/data/kKwy3HU9/versions/oA7DgMo2/betterbeds-1.3.0-1.19.3.jar"
-
-[[mods]]
 name = "BetterF3"
 url = "https://cdn.modrinth.com/data/8shC1gFX/versions/FtJ0KSLo/BetterF3-7.0.1-Fabric-1.20.1.jar"
 
