@@ -1,0 +1,13 @@
+name = "Useless Reptile"
+filename = "uselessreptile-0.5.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YE4QRt8F/versions/renOQLwR/uselessreptile-0.5.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "98604b0cdd3c389924d4d983882846939d83795e"
+
+[update]
+[update.modrinth]
+mod-id = "YE4QRt8F"
+version = "renOQLwR"
