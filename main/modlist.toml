@@ -366,6 +366,14 @@ name = "WTHIT"
 url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/SbNRrrGr/wthit-quilt-8.4.0.jar"
 
 [[mods]]
+name = "Xaero's Minimap (Fair-Play)"
+url = "https://cdn.modrinth.com/data/JkSi2Fzx/versions/6aPaqLkt/Xaeros_Minimap_FP23.6.3_Fabric_1.20.jar"
+
+[[mods]]
+name = "Xaero's World Map"
+url = "https://cdn.modrinth.com/data/NcUtCpym/versions/qwwKbodF/XaerosWorldMap_1.34.0_Fabric_1.20.jar"
+
+[[mods]]
 name = "Yet Another Cobblestone Generator"
 url = "https://cdn.modrinth.com/data/xPsKRMUF/versions/gX5yMtYZ/yacg-2023.7.3.jar"
 
