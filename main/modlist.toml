@@ -122,6 +122,10 @@ name = "Debugify"
 url = "https://cdn.modrinth.com/data/QwxR6Gcd/versions/6XDJoCks/Debugify-1.20.1%2B2.0.jar"
 
 [[mods]]
+name = "Eating Animation"
+url = "https://cdn.modrinth.com/data/rUgZvGzi/versions/OcHlWpeQ/eating-animation-1.9.4%2B1.20.jar"
+
+[[mods]]
 name = "Enhanced Block Entities"
 url = "https://cdn.modrinth.com/data/OVuFYfre/versions/i3v1Skck/enhancedblockentities-0.9%2B1.20.jar"
 
