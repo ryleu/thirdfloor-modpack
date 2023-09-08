@@ -247,6 +247,11 @@ hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "441f1becd0fd9553db76cff24d2241f0751c7a0a66eb3c6242daeed1c3f27125"
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
 metafile = true
