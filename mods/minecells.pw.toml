@@ -1,0 +1,13 @@
+name = "Mine Cells - Dead Cells Mod"
+filename = "minecells-1.5.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9Qdvz1OV/versions/hgpfupbt/minecells-1.5.5.jar"
+hash-format = "sha1"
+hash = "9b6477f69363fc0e2f3eabd0fbc70695c782813c"
+
+[update]
+[update.modrinth]
+mod-id = "9Qdvz1OV"
+version = "hgpfupbt"
