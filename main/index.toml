@@ -17,6 +17,18 @@ file = "config/bluemap/webserver.conf"
 hash = "e3c4171a5f23346888958ccd255215c67bcfb071ca474a9bd47930950be6abed"
 
 [[files]]
+file = "global_packs/required_data/data/minecraft/tags/functions/load.json"
+hash = "843040f40d4900ddc1bd176b74d842e7344726ba255070eac810cf0a32ee3941"
+
+[[files]]
+file = "global_packs/required_data/data/thirdfloor/load.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/data/thirdfloor/tick.mcfunction"
+hash = "b580da1e854d8c0e69ca70404b478693485766cc4e8d17eed3e517e5b0c6c630"
+
+[[files]]
 file = "global_packs/required_data/data/yacg/recipes/generators/cobble.json"
 hash = "0f25761a2a1876a5d9d94487eccf215056bfe21fa0dd705ab590c8b25a0e6fff"
 
