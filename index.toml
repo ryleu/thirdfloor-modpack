@@ -517,11 +517,6 @@ hash = "1cfb52ef509e73cd2df7d19af4fff3a5b2d46ebe5e2674257ce78e3f400bb66e"
 metafile = true
 
 [[files]]
-file = "mods/yacg.pw.toml"
-hash = "66af815ba70ae6e4a1b2efae5982804972ad8f0ca22371772bd7f543d8ce48fe"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "5128dafec4140a625b5c388f56e9989b8f6780dcce41134ef799bd9be3d5ae1a"
 metafile = true
