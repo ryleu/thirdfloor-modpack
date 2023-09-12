@@ -1,4 +1,4 @@
-schedule function superawesome:tick 1t
+schedule function thirdfloor:tick 1t
 
 clear @a yacg:cobble
 clear @a yacg:ore
