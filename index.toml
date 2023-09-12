@@ -122,11 +122,6 @@ hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
 metafile = true
 
 [[files]]
-file = "mods/create-ore-excavation.pw.toml"
-hash = "640e09088fc040815c01635c52a85f04a85d36039e91dd69021e7737a1bf5f12"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "c9da23c3afbb9a9de45d769db484bba17b3e63a8f37cfdbcf091d5e89274936c"
 metafile = true
