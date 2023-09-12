@@ -26,7 +26,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/data/thirdfloor/tick.mcfunction"
-hash = "b580da1e854d8c0e69ca70404b478693485766cc4e8d17eed3e517e5b0c6c630"
+hash = "ca8dce674b1d8cc793a971ddffa4d5a222f603dff462260c49d559fd0a01fb22"
 
 [[files]]
 file = "global_packs/required_data/data/yacg/recipes/generators/cobble.json"
