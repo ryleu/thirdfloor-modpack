@@ -1,6 +1,6 @@
 {
 	"replace": false,
 	"values": [
-		"thirdfloor:load"
+		"thirdfloor:tick"
 	]
 }

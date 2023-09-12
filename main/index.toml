@@ -18,7 +18,11 @@ hash = "e3c4171a5f23346888958ccd255215c67bcfb071ca474a9bd47930950be6abed"
 
 [[files]]
 file = "global_packs/required_data/data/minecraft/tags/functions/load.json"
-hash = "843040f40d4900ddc1bd176b74d842e7344726ba255070eac810cf0a32ee3941"
+hash = "52819bf3c6876dd37c1aa1b9efd2826070947bcf0b7c2998371fd535fa1da8b7"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/tags/functions/tick.json"
+hash = "22658aa1d15551071246c724a3a9ec303c3e819fca76930adfe6598731c8ea55"
 
 [[files]]
 file = "global_packs/required_data/data/thirdfloor/load.mcfunction"
