@@ -17,6 +17,34 @@ file = "config/bluemap/webserver.conf"
 hash = "e3c4171a5f23346888958ccd255215c67bcfb071ca474a9bd47930950be6abed"
 
 [[files]]
+file = "global_packs/required_data/data/yacg/recipes/generators/cobble.json"
+hash = "0f25761a2a1876a5d9d94487eccf215056bfe21fa0dd705ab590c8b25a0e6fff"
+
+[[files]]
+file = "global_packs/required_data/data/yacg/recipes/generators/ore.json"
+hash = "0f25761a2a1876a5d9d94487eccf215056bfe21fa0dd705ab590c8b25a0e6fff"
+
+[[files]]
+file = "global_packs/required_data/data/yacg/recipes/generators/stone.json"
+hash = "0f25761a2a1876a5d9d94487eccf215056bfe21fa0dd705ab590c8b25a0e6fff"
+
+[[files]]
+file = "global_packs/required_data/data/yacg/recipes/upgrades/coefficient.json"
+hash = "0f25761a2a1876a5d9d94487eccf215056bfe21fa0dd705ab590c8b25a0e6fff"
+
+[[files]]
+file = "global_packs/required_data/data/yacg/recipes/upgrades/count.json"
+hash = "0f25761a2a1876a5d9d94487eccf215056bfe21fa0dd705ab590c8b25a0e6fff"
+
+[[files]]
+file = "global_packs/required_data/data/yacg/recipes/upgrades/speed.json"
+hash = "0f25761a2a1876a5d9d94487eccf215056bfe21fa0dd705ab590c8b25a0e6fff"
+
+[[files]]
+file = "global_packs/required_data/pack.mcmeta"
+hash = "b3191b1bf79fce48352db9829523247138e3065a57039e4fab0e44e4a9548248"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "4789940899b14c1a43c106b61b90498547109c21d0eff564eff98ab9e43a0f27"
 metafile = true
