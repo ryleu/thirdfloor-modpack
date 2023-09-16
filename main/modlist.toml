@@ -406,6 +406,10 @@ name = "Xaero's World Map"
 url = "https://cdn.modrinth.com/data/NcUtCpym/versions/L8OA3xGI/XaerosWorldMap_1.34.1_Fabric_1.20.jar"
 
 [[mods]]
+name = "XXL Packets"
+url = "https://cdn.modrinth.com/data/SeCuopwJ/versions/9CoQQYvj/xlpackets-1.0.4-1.20.x.jar"
+
+[[mods]]
 name = "Yet Another Cobblestone Generator"
 url = "https://cdn.modrinth.com/data/xPsKRMUF/versions/gX5yMtYZ/yacg-2023.7.3.jar"
 
