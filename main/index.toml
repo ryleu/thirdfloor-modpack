@@ -331,6 +331,11 @@ hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
 metafile = true
 
 [[files]]
+file = "mods/inmis.pw.toml"
+hash = "3b5d812cb326288def7f87a06dddbc4ba987cea771d1708a3680f8201865c0be"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "441f1becd0fd9553db76cff24d2241f0751c7a0a66eb3c6242daeed1c3f27125"
 metafile = true
@@ -452,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "7a06b7203a44d879f81651f5d192933aeac202ca9012fa8e314b7a4560268410"
+hash = "7d29724ac05ef8982475b92f0e77adf4a4830c249f0e8c1515a19777fbf05f09"
 metafile = true
 
 [[files]]

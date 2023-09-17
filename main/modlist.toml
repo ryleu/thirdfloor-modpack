@@ -198,6 +198,9 @@ name = "Indium"
 url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/yTh7W27h/indium-1.0.21%2Bmc1.20.1.jar"
 
 [[mods]]
+name = "Inmis"
+
+[[mods]]
 name = "Iris"
 url = "https://cdn.modrinth.com/data/YL57xq9U/versions/URWeWMAt/iris-mc1.20-1.6.4.jar"
 
@@ -295,7 +298,7 @@ url = "https://cdn.modrinth.com/data/lwVhp9o5/versions/9WIAwhe7/quilt-kotlin-lib
 
 [[mods]]
 name = "Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)"
-url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/DzBePwtf/qfapi-7.2.1_qsl-6.1.1_fapi-0.88.0_mc-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/vTQynnGn/qfapi-7.2.2_qsl-6.1.2_fapi-0.88.1_mc-1.20.1.jar"
 
 [[mods]]
 name = "Qu Enchantments"
