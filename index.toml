@@ -316,6 +316,11 @@ hash = "edd891ba10d407c2ace1240ab4cfd1cebaf5cc07bcb2a9416b9666891a48c550"
 metafile = true
 
 [[files]]
+file = "mods/happy-fun-time-mod.pw.toml"
+hash = "78393a6573fbbfd20a56523ec70e83b14e3581c5afd9703414cf7eefb4964b7c"
+metafile = true
+
+[[files]]
 file = "mods/immersive-structures-ii.pw.toml"
 hash = "2704e1663784137c7f0bf37b2a3cbe0f1fcf9af9b9137f65a0a8f6c6db8c9a9f"
 metafile = true
@@ -613,6 +618,11 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/happy-fun-time.pw.toml"
+hash = "fa9a7b6d565f02aa7002fda14bd805cea0edce25ac83b3a38dba2071b93f093c"
 metafile = true
 
 [[files]]
