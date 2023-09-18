@@ -50,7 +50,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/data/thirdfloor/functions/tick.mcfunction"
-hash = "328c54326bb95315dc2c9b706d13fc7dfe37444c1a38a8374b37b7761c6be7e4"
+hash = "c79157f552f542ea2b960d585d499a0ef0a180bbad209b8aa36b617daf9ed5d6"
 
 [[files]]
 file = "global_packs/required_data/data/yacg/recipes/generators/cobble.json"
