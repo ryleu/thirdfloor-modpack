@@ -186,6 +186,10 @@ name = "Global Packs"
 url = "https://cdn.modrinth.com/data/NRLPy2mk/versions/WjtRRTw9/global_packs-quilt-1.19.4-1.16.1_quilt.jar"
 
 [[mods]]
+name = "Happy Fun Time Mod"
+url = "https://cdn.modrinth.com/data/cChd25Tw/versions/VpeEAwbs/cavedweller-1.2.0.jar"
+
+[[mods]]
 name = "Immersive Structures II: Nether edition"
 url = "https://cdn.modrinth.com/data/fECIioDQ/versions/tMnaV87R/imst_n-1.1.0.jar"
 

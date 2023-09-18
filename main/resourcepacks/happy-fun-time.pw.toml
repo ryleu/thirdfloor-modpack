@@ -1,0 +1,8 @@
+name = "Happy Fun Time"
+filename = "happy-fun-time.zip"
+side = "client"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/1149078798726340739/1153196651738054696/happy-fun-time.zip"
+hash-format = "sha1"
+hash = "7720b48b153fd6f5a83aa877f3720cd733706cf4"
