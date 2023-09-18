@@ -126,6 +126,10 @@ name = "Debugify"
 url = "https://cdn.modrinth.com/data/QwxR6Gcd/versions/6XDJoCks/Debugify-1.20.1%2B2.0.jar"
 
 [[mods]]
+name = "Drip Sounds (Fabric)"
+url = "https://cdn.modrinth.com/data/T8MMXTpr/versions/7GB1hLrr/DripSounds-1.19.4-0.3.2.jar"
+
+[[mods]]
 name = "Eating Animation"
 url = "https://cdn.modrinth.com/data/rUgZvGzi/versions/OcHlWpeQ/eating-animation-1.9.4%2B1.20.jar"
 
