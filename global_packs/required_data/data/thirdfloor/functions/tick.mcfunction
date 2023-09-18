@@ -10,3 +10,5 @@ clear @a yacg:upgrade_speed
 execute as @a at @s run fill ~10 ~10 ~10 ~-10 ~-10 ~-10 air replace yacg:cobble
 execute as @a at @s run fill ~10 ~10 ~10 ~-10 ~-10 ~-10 air replace yacg:ore
 execute as @a at @s run fill ~10 ~10 ~10 ~-10 ~-10 ~-10 air replace yacg:stone
+
+effect give @e[type=cave_dweller:cave_dweller] minecraft:strength infinite 19 true
