@@ -27,6 +27,10 @@ name = "Architectury API"
 url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Sbew3kXe/architectury-9.1.12-fabric.jar"
 
 [[mods]]
+name = "Artifacts"
+url = "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/bfIQoQHe/artifacts-fabric-9.1.0.jar"
+
+[[mods]]
 name = "Automobility"
 url = "https://cdn.modrinth.com/data/rqIsPf9F/versions/G97BY8OB/automobility-0.4.2%2B1.20.1-fabric.jar"
 
