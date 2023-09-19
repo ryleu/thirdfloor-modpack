@@ -631,6 +631,11 @@ hash = "fa9a7b6d565f02aa7002fda14bd805cea0edce25ac83b3a38dba2071b93f093c"
 metafile = true
 
 [[files]]
+file = "serializationisbad.pw.toml"
+hash = "6fba4930fb5476a194256af1c2e1e52eb5315a85d895333277c614eea731a34a"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "62907b0a98b3ea75b6ab6efb694685751abbd19aa21826f03de0ab4bc4012fbe"
 metafile = true
