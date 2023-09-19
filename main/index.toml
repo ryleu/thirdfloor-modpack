@@ -53,6 +53,10 @@ file = "global_packs/required_data/data/thirdfloor/functions/tick.mcfunction"
 hash = "c79157f552f542ea2b960d585d499a0ef0a180bbad209b8aa36b617daf9ed5d6"
 
 [[files]]
+file = "global_packs/required_data/data/thirdfloor/recipes/modern_industrialization/compress_brass.json"
+hash = "b797972a29a9057eeb5683c75b4369e8207cb740f97d1ac1a15539264e1ba466"
+
+[[files]]
 file = "global_packs/required_data/data/yacg/recipes/generators/cobble.json"
 hash = "0f25761a2a1876a5d9d94487eccf215056bfe21fa0dd705ab590c8b25a0e6fff"
 
