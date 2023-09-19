@@ -116,6 +116,11 @@ hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "a41366ddd0c6ac90fae1bfb117f36fb0a325c19dd823b2006b67ddff4f44a0cf"
+metafile = true
+
+[[files]]
 file = "mods/automobility.pw.toml"
 hash = "c3b5b2edf2b45384bd560bd7fe72c3f99515a95d023a69750c43ef691e59f546"
 metafile = true
