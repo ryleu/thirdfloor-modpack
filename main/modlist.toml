@@ -79,6 +79,10 @@ name = "Cinderscapes"
 url = "https://cdn.modrinth.com/data/QC4wcUXZ/versions/HCDPkEm0/cinderscapes-4.0.8.jar"
 
 [[mods]]
+name = "ClickThrough"
+url = "https://cdn.modrinth.com/data/Z5b0cAlD/versions/bwQT3Pqa/clickthrough-1.20-fabric0.83.0-0.4.1.jar"
+
+[[mods]]
 name = "Cloth Config API"
 url = "https://cdn.modrinth.com/data/9s6osm5g/versions/s7VTKfLA/cloth-config-11.1.106-fabric.jar"
 
