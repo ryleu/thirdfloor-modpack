@@ -37,6 +37,694 @@ file = "global_packs/required_data/data/ad_astra/recipes/recipes/steel_nugget.js
 hash = "0f25761a2a1876a5d9d94487eccf215056bfe21fa0dd705ab590c8b25a0e6fff"
 
 [[files]]
+file = "global_packs/required_data/data/minecraft/recipes/bat_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/bat_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/bat_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/bat_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/bee_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/bee_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/bee_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/bee_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/blaze_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/blaze_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/blaze_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/blaze_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/bookshelf_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/bookshelf_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/bookshelf_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/bookshelf_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/cactus_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/cactus_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/cactus_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/cactus_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/cake_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/cake_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/cake_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/cake_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/chicken_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/chicken_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/chicken_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/chicken_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/coal_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/coal_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/coal_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/coal_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/cow_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/cow_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/cow_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/cow_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/creeper_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/creeper_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/creeper_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/creeper_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/diamond_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/diamond_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/diamond_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/diamond_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/dragon_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/dragon_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/dragon_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/dragon_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/emerald_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/emerald_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/emerald_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/emerald_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/end_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/end_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/end_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/end_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/enderman_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/enderman_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/enderman_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/enderman_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/fox_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/fox_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/fox_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/fox_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/ghast_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/ghast_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/ghast_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/ghast_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/gold_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/gold_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/gold_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/gold_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/hay_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/hay_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/hay_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/hay_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/horse_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/horse_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/horse_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/horse_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/iron_golem_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/iron_golem_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/iron_golem_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/iron_golem_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/iron_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/iron_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/iron_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/iron_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/lapis_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/lapis_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/lapis_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/lapis_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/magma_cube_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/magma_cube_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/magma_cube_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/magma_cube_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/melon_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/melon_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/melon_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/melon_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/nether_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/nether_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/nether_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/nether_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/netherite_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/netherite_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/netherite_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/netherite_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/ocelot_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/ocelot_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/ocelot_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/ocelot_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/pig_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/pig_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/pig_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/pig_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/pumpkin_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/pumpkin_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/pumpkin_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/pumpkin_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/quartz_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/quartz_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/quartz_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/quartz_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/redstone_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/redstone_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/redstone_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/redstone_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/sandstone_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/sandstone_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/sandstone_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/sandstone_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/sheep_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/sheep_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/sheep_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/sheep_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/skeleton_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/skeleton_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/skeleton_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/skeleton_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/snow_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/snow_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/snow_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/snow_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/spider_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/spider_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/spider_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/spider_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/sponge_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/sponge_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/sponge_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/sponge_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/squid_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/squid_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/squid_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/squid_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/standard_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/standard_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/standard_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/standard_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/villager_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/villager_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/villager_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/villager_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/wither_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/wither_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/wither_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/wither_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/wolf_smithing_diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/wolf_smithing_gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/wolf_smithing_iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/minecraft/recipes/wolf_smithing_netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
 file = "global_packs/required_data/data/minecraft/tags/functions/load.json"
 hash = "52819bf3c6876dd37c1aa1b9efd2826070947bcf0b7c2998371fd535fa1da8b7"
 
@@ -55,6 +743,270 @@ hash = "c79157f552f542ea2b960d585d499a0ef0a180bbad209b8aa36b617daf9ed5d6"
 [[files]]
 file = "global_packs/required_data/data/thirdfloor/recipes/modern_industrialization/compress_brass.json"
 hash = "b797972a29a9057eeb5683c75b4369e8207cb740f97d1ac1a15539264e1ba466"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/backpack_dye.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/backpack_tank.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/bee.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/black_sleeping_bag.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/blank_upgrade.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/blaze.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/blue_sleeping_bag.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/bookshelf.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/brown_sleeping_bag.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/cactus.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/cake.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/chicken.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/coal.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/cow.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/creeper.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/cyan_sleeping_bag.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/diamond.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/diamond_tier_upgrade.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/dragon.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/emerald.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/end.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/enderman.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/fox.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/ghast.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/gold.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/gold_tier_upgrade.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/gray_sleeping_bag.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/green_sleeping_bag.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/hay.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/horse.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/hose.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/hose_nozzle.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/iron.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/iron_tier_upgrade.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/lapis.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/light_blue_sleeping_bag.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/light_gray_sleeping_bag.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/lime_sleeping_bag.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/magenta_sleeping_bag.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/magma_cube.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/melon.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/nether.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/netherite.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/netherite_tier_upgrade.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/ocelot.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/orange_sleeping_bag.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/pig.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/pink_sleeping_bag.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/pumpkin.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/purple_sleeping_bag.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/quartz.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/red_sleeping_bag.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/redstone.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/sandstone.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/sheep.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/skeleton.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/snow.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/spider.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/sponge.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/squid.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/standard.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/travelers_backpack.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/white_sleeping_bag.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/wither.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/wolf.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
+
+[[files]]
+file = "global_packs/required_data/data/travelersbackpack/recipes/yellow_sleeping_bag.json"
+hash = "c630036fcfa878a90fe3effdb4644026f5e41a9bae4f69725ce3306db484416b"
 
 [[files]]
 file = "global_packs/required_data/data/trinkets/tags/items/offhand/glove.json"
@@ -556,6 +1508,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "3306e7374f01d1d0f243d5a0bcaf21dd87adcaa638c056bfefcb0603910abaa5"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "c3d33e0bad7b2919be78f80aad957542e78c081f11248d14a9e91ab5389a714f"
 metafile = true
 
 [[files]]
