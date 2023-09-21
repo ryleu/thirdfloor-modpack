@@ -373,6 +373,10 @@ name = "Tom's Simple Storage Mod"
 url = "https://cdn.modrinth.com/data/XZNI4Cpy/versions/gT2rdlHL/toms_storage_fabric-1.20-1.6.4.jar"
 
 [[mods]]
+name = "Traveler's Backpack"
+url = "https://cdn.modrinth.com/data/rlloIFEV/versions/tdmN5UVP/travelers-backpack-1.20.1-9.1.4.jar"
+
+[[mods]]
 name = "Tree Harvester"
 url = "https://cdn.modrinth.com/data/abooMhox/versions/c2klaSgQ/treeharvester-1.20.1-8.2.jar"
 
