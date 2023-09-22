@@ -738,7 +738,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "global_packs/required_data/data/thirdfloor/functions/tick.mcfunction"
-hash = "c79157f552f542ea2b960d585d499a0ef0a180bbad209b8aa36b617daf9ed5d6"
+hash = "9cdb630eb53e6187b1939463ea9638852965878711b14de37ac021b1c50e7e60"
 
 [[files]]
 file = "global_packs/required_data/data/thirdfloor/recipes/modern_industrialization/compress_brass.json"
