@@ -95,6 +95,10 @@ name = "Couplings"
 url = "https://cdn.modrinth.com/data/80ulerjA/versions/1S2TEbqR/Couplings-1.9.4%2B1.20.jar"
 
 [[mods]]
+name = "CraftPresence"
+url = "https://cdn.modrinth.com/data/DFqQfIBR/versions/nXHgUjGu/CraftPresence-2.2.3%2B1.20.1.jar"
+
+[[mods]]
 name = "Create Fabric"
 url = "https://cdn.modrinth.com/data/Xbc0uyRg/versions/qlA1WuOK/create-fabric-0.5.1-d-build.1161%2Bmc1.20.1.jar"
 
