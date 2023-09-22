@@ -39,6 +39,10 @@ name = "bad packets"
 url = "https://cdn.modrinth.com/data/ftdbN0KK/versions/BTK3ZWby/badpackets-fabric-0.4.2.jar"
 
 [[mods]]
+name = "Balm"
+url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/BJ0Uk3Di/balm-fabric-1.20.1-7.1.4.jar"
+
+[[mods]]
 name = "BetterF3"
 url = "https://cdn.modrinth.com/data/8shC1gFX/versions/FtJ0KSLo/BetterF3-7.0.1-Fabric-1.20.1.jar"
 
@@ -411,6 +415,10 @@ url = "https://cdn.modrinth.com/data/oHGMwNDR/versions/QtzrqUgt/VillagersPlus_2.
 [[mods]]
 name = "Very Many Players (Fabric)"
 url = "https://cdn.modrinth.com/data/wnEe9KBa/versions/J2WKvX2m/vmp-fabric-mc1.20.1-0.2.0%2Bbeta.7.101-all.jar"
+
+[[mods]]
+name = "Waystones"
+url = "https://cdn.modrinth.com/data/LOpKHB2A/versions/pDItHk3J/waystones-fabric-1.20-14.0.2.jar"
 
 [[mods]]
 name = "Wilder Wild"
