@@ -1013,6 +1013,10 @@ file = "global_packs/required_data/data/trinkets/tags/items/offhand/glove.json"
 hash = "187ce5757105299d2419f6470d7a548783e2a08a032bc90255cf236ebda61b3f"
 
 [[files]]
+file = "global_packs/required_data/data/victus/recipes/evoking_heart_aspect.json"
+hash = "0f25761a2a1876a5d9d94487eccf215056bfe21fa0dd705ab590c8b25a0e6fff"
+
+[[files]]
 file = "global_packs/required_data/data/yacg/recipes/generators/cobble.json"
 hash = "0f25761a2a1876a5d9d94487eccf215056bfe21fa0dd705ab590c8b25a0e6fff"
 
